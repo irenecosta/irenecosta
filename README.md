@@ -1,5 +1,5 @@
 <h1 align="center">Hello, I'm irenecosta</h1>
-<h3 align="center">I'm a data enthusiast on a quest to uncover hidden patterns and valuable insights, transforming chaos into clarity</h3>
+<h3 align="center">I'm a data enthusiast on a quest to uncover hidden patterns and valuable insights, transforming chaos into clarity.</h3>
 
 - 🌱 I’m currently learning **Python and Machine Learning**
 
